@@ -1,0 +1,9 @@
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\bin\Debug\HexUserInterface.exe.config
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\bin\Debug\HexUserInterface.exe
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\bin\Debug\HexUserInterface.pdb
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\obj\Debug\HexUserInterface.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\obj\Debug\HexUserInterface.Properties.Resources.resources
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\obj\Debug\HexUserInterface.csproj.GenerateResource.Cache
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\obj\Debug\HexUserInterface.exe
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\obj\Debug\HexUserInterface.pdb
+E:\Documents\GitHub\HexMex\GameSpace\HexUserInterface\obj\Debug\HexUserInterface.Form1.resources

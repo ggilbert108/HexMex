@@ -1,0 +1,6 @@
+E:\Documents\GitHub\HexMex\GameSpace\HexGame\bin\Debug\HexGame.exe.config
+E:\Documents\GitHub\HexMex\GameSpace\HexGame\bin\Debug\HexGame.exe
+E:\Documents\GitHub\HexMex\GameSpace\HexGame\bin\Debug\HexGame.pdb
+E:\Documents\GitHub\HexMex\GameSpace\HexGame\obj\Debug\HexGame.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\HexMex\GameSpace\HexGame\obj\Debug\HexGame.exe
+E:\Documents\GitHub\HexMex\GameSpace\HexGame\obj\Debug\HexGame.pdb
